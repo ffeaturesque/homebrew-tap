@@ -1,6 +1,6 @@
 cask "grumlin" do
-  version "1.1.1"
-  sha256 "640b83ae25bc3d9550b7b70a2121f6ee8d84ec913baed1bb9fad21e610da44af"
+  version "1.1.2"
+  sha256 "4893ab6861ccfe17c242b47dcb523f62f5832705851cd1acd47358caee7b46f6"
 
   url "https://github.com/ffeaturesque/grumlin/releases/download/v#{version}/Grumlin-#{version}.dmg"
   name "Grumlin"
